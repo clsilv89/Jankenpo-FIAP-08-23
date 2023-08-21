@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jankenpo</string>
+    <string name="app_choice_title">Escolha do App</string>
+    <string name="user_choice_title">Escolha a sua opção</string>
+    <string name="result_app_wins">App escolheu %s e venceu!!!</string>
+    <string name="result_app_loses">Você escolheu %s e venceu!!!</string>
+    <string name="result_draw">Você e o App escolheram %s e empataram!!!</string>
+</resources>
